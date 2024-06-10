@@ -2,7 +2,7 @@ So you've been learning about IRL Streaming and there is just too many letters t
 
 AVC/h.264: Advanced Video Codec also know as h.264 is the standard video codec for providers and streams in RTMP.  Has some licenses but is generally used everywhere.
 
-AV1: AOMedia Video 1 (AV1) is an open, royalty-free video coding format initially designed for video transmissions over the Internet.  We can't really use AV1 for much because it encoding and coding requires so much computational power and is not supported on many devices currently.
+AV1: AOMedia Video 1 (AV1) is an open, royalty-free video coding format initially designed for video transmissions over the Internet.  We can't really use AV1 for much because it encoding and decoding requires so much computational power and is not supported on many devices currently.
 
 BELABOX: Budget Encoder for Link Aggregation box, a hardware device running belabox software from belabox.net to bond multiple internet connections for a stream
 
