@@ -10,7 +10,7 @@ HEVC/h.265: High-Efficiency Video Codec also know as h.265, is a video codec tha
 
 LA: Link Aggreation, or being able to bond separate network connections
 
-OBS: Open Broadcast System, the open source software that generally does the last leg of sesnding a stream out to provider.
+OBS: Open Broadcast System, the open source software that generally does the last leg of encoding and sending stream out to provider.
 
 RIST: Reliable Internet Streaming Protocal is a modern protocal for video transmission
 
